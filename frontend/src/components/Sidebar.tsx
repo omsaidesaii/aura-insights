@@ -1,4 +1,3 @@
-import { SignOutButton } from '@clerk/clerk-react';
 import { Link, useLocation } from 'react-router-dom';
 
 const Sidebar = () => {

@@ -2,7 +2,7 @@ import Sidebar from '@/components/Sidebar';
 import DashboardHeader from '@/components/DashboardHeader';
 import { useState, useRef } from 'react';
 import { useAuth } from '@clerk/clerk-react';
-import { predictBulkSentiment, downloadFile, parseCSVBlob } from '@/services/api';
+import { predictBulkSentiment, parseCSVBlob } from '@/services/api';
 import { useReviews, ReviewData } from '@/context/ReviewsContext';
 import { useNavigate } from 'react-router-dom';
 
