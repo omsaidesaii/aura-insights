@@ -1,0 +1,151 @@
+review_id,product_name,review_text,rating
+1,Xiaomi 13T,Heating issue while charging.,2
+2,Xiaomi 13T,The phone overheats quickly during gaming.,2
+3,Xiaomi 13T,Phone hangs frequently during multitasking.,1
+4,iPhone 15 Pro,Storage fills up quickly.,5
+5,OnePlus 12,Excellent build quality and premium feel.,5
+6,iPhone 15 Pro,Camera quality is poor in low light.,2
+7,Galaxy S23 Ultra,The phone feels cheap and plasticky.,2
+8,Galaxy S23 Ultra,Software updates are too slow.,4
+9,OnePlus 12,Amazing display quality with vibrant colors.,2
+10,iPhone 15 Pro,Good value for money.,3
+11,Xiaomi 13T,Night mode camera improves clarity.,2
+12,Xiaomi 13T,Heating issue while charging.,1
+13,Galaxy S23 Ultra,Heating issue while charging.,2
+14,Galaxy S23 Ultra,Excellent build quality and premium feel.,2
+15,Pixel 8 Pro,Battery life is excellent and lasts all day.,2
+16,Xiaomi 13T,Loud and clear speakers.,2
+17,Xiaomi 13T,Fingerprint sensor is slow and inaccurate.,5
+18,iPhone 15 Pro,Battery life is excellent and lasts all day.,1
+19,OnePlus 12,The display brightness is low outdoors.,4
+20,Xiaomi 13T,Battery life is excellent and lasts all day.,1
+21,Galaxy S23 Ultra,Performance drops after long use.,1
+22,Galaxy S23 Ultra,"Great performance, no lag at all.",2
+23,Galaxy S23 Ultra,Software updates are too slow.,2
+24,iPhone 15 Pro,Amazing display quality with vibrant colors.,1
+25,Pixel 8 Pro,The phone feels cheap and plasticky.,3
+26,Pixel 8 Pro,The UI is smooth and easy to use.,1
+27,OnePlus 12,The phone overheats quickly during gaming.,5
+28,iPhone 15 Pro,The charging cable stopped working.,4
+29,Pixel 8 Pro,Storage fills up quickly.,3
+30,Galaxy S23 Ultra,Battery drains very fast.,5
+31,OnePlus 12,Fingerprint sensor is slow and inaccurate.,3
+32,Galaxy S23 Ultra,The display brightness is low outdoors.,4
+33,OnePlus 12,Software updates are too slow.,1
+34,OnePlus 12,Camera quality is poor in low light.,4
+35,Galaxy S23 Ultra,Phone hangs frequently during multitasking.,3
+36,Galaxy S23 Ultra,Storage fills up quickly.,1
+37,Pixel 8 Pro,Storage fills up quickly.,5
+38,Galaxy S23 Ultra,The charging cable stopped working.,2
+39,OnePlus 12,Storage fills up quickly.,2
+40,Galaxy S23 Ultra,Camera quality is poor in low light.,2
+41,iPhone 15 Pro,The phone feels cheap and plasticky.,4
+42,Galaxy S23 Ultra,Performance drops after long use.,3
+43,Xiaomi 13T,Camera quality is poor in low light.,4
+44,Galaxy S23 Ultra,The charging cable stopped working.,1
+45,Xiaomi 13T,Fingerprint sensor is slow and inaccurate.,4
+46,Xiaomi 13T,Fingerprint sensor is slow and inaccurate.,2
+47,iPhone 15 Pro,Fingerprint sensor is slow and inaccurate.,1
+48,Xiaomi 13T,Amazing display quality with vibrant colors.,3
+49,Galaxy S23 Ultra,The charging cable stopped working.,5
+50,iPhone 15 Pro,Software updates are too slow.,4
+51,Xiaomi 13T,Battery drains very fast.,5
+52,Pixel 8 Pro,Heating issue while charging.,4
+53,Pixel 8 Pro,The phone feels cheap and plasticky.,3
+54,Galaxy S23 Ultra,Software updates are too slow.,3
+55,iPhone 15 Pro,Phone hangs frequently during multitasking.,2
+56,Galaxy S23 Ultra,Fingerprint sensor is slow and inaccurate.,5
+57,Galaxy S23 Ultra,Fingerprint sensor is slow and inaccurate.,1
+58,Galaxy S23 Ultra,Phone hangs frequently during multitasking.,5
+59,OnePlus 12,The speaker volume is too low.,3
+60,Pixel 8 Pro,The speaker volume is too low.,5
+61,Pixel 8 Pro,Camera quality is poor in low light.,2
+62,OnePlus 12,Excellent build quality and premium feel.,1
+63,iPhone 15 Pro,The UI is smooth and easy to use.,2
+64,Pixel 8 Pro,Excellent build quality and premium feel.,5
+65,Galaxy S23 Ultra,Loud and clear speakers.,4
+66,Pixel 8 Pro,Fingerprint sensor is slow and inaccurate.,3
+67,Pixel 8 Pro,Battery drains very fast.,3
+68,iPhone 15 Pro,The phone overheats quickly during gaming.,2
+69,iPhone 15 Pro,Good value for money.,2
+70,iPhone 15 Pro,Performance drops after long use.,1
+71,Galaxy S23 Ultra,Software updates are too slow.,4
+72,iPhone 15 Pro,Phone hangs frequently during multitasking.,5
+73,iPhone 15 Pro,Night mode camera improves clarity.,5
+74,iPhone 15 Pro,Heating issue while charging.,5
+75,Pixel 8 Pro,Fingerprint sensor is slow and inaccurate.,2
+76,Xiaomi 13T,Face unlock is inconsistent.,3
+77,OnePlus 12,Amazing display quality with vibrant colors.,4
+78,Galaxy S23 Ultra,Fingerprint sensor is slow and inaccurate.,5
+79,Pixel 8 Pro,Excellent build quality and premium feel.,1
+80,OnePlus 12,Camera is sharp and detailed.,1
+81,Pixel 8 Pro,Face unlock is inconsistent.,5
+82,Pixel 8 Pro,"Great performance, no lag at all.",4
+83,iPhone 15 Pro,Battery life is excellent and lasts all day.,2
+84,OnePlus 12,The speaker volume is too low.,5
+85,OnePlus 12,The screen scratches easily.,4
+86,OnePlus 12,The screen scratches easily.,3
+87,Galaxy S23 Ultra,The UI is smooth and easy to use.,4
+88,iPhone 15 Pro,Software updates are too slow.,4
+89,Galaxy S23 Ultra,The display brightness is low outdoors.,2
+90,Galaxy S23 Ultra,Storage fills up quickly.,1
+91,Xiaomi 13T,Amazing display quality with vibrant colors.,1
+92,Galaxy S23 Ultra,Battery drains very fast.,3
+93,Xiaomi 13T,Face unlock is inconsistent.,2
+94,iPhone 15 Pro,Performance drops after long use.,5
+95,iPhone 15 Pro,Face unlock is inconsistent.,5
+96,Pixel 8 Pro,Fast charging works really well.,5
+97,Pixel 8 Pro,The charging cable stopped working.,2
+98,Xiaomi 13T,Storage fills up quickly.,2
+99,Xiaomi 13T,Battery drains very fast.,3
+100,Pixel 8 Pro,The display brightness is low outdoors.,3
+101,Xiaomi 13T,The speaker volume is too low.,5
+102,Galaxy S23 Ultra,Battery life is excellent and lasts all day.,3
+103,Galaxy S23 Ultra,Software updates are too slow.,1
+104,Galaxy S23 Ultra,Battery drains very fast.,2
+105,Pixel 8 Pro,Camera quality is poor in low light.,2
+106,iPhone 15 Pro,Battery life is excellent and lasts all day.,5
+107,iPhone 15 Pro,Loud and clear speakers.,5
+108,OnePlus 12,Night mode camera improves clarity.,1
+109,iPhone 15 Pro,Software updates are too slow.,5
+110,Galaxy S23 Ultra,The screen scratches easily.,5
+111,Xiaomi 13T,The screen scratches easily.,2
+112,Pixel 8 Pro,Good value for money.,4
+113,Xiaomi 13T,Loud and clear speakers.,3
+114,Galaxy S23 Ultra,Fast charging works really well.,5
+115,Pixel 8 Pro,Fingerprint sensor is slow and inaccurate.,4
+116,Galaxy S23 Ultra,Amazing display quality with vibrant colors.,5
+117,iPhone 15 Pro,Heating issue while charging.,3
+118,Xiaomi 13T,Excellent build quality and premium feel.,2
+119,OnePlus 12,Phone hangs frequently during multitasking.,5
+120,iPhone 15 Pro,Battery life is excellent and lasts all day.,3
+121,Galaxy S23 Ultra,Fingerprint sensor is slow and inaccurate.,3
+122,OnePlus 12,Camera quality is poor in low light.,5
+123,Galaxy S23 Ultra,Night mode camera improves clarity.,4
+124,OnePlus 12,Phone hangs frequently during multitasking.,4
+125,Xiaomi 13T,Phone hangs frequently during multitasking.,2
+126,Galaxy S23 Ultra,The speaker volume is too low.,4
+127,OnePlus 12,The phone overheats quickly during gaming.,2
+128,Pixel 8 Pro,Storage fills up quickly.,2
+129,Xiaomi 13T,The charging cable stopped working.,4
+130,Xiaomi 13T,The phone feels cheap and plasticky.,5
+131,Xiaomi 13T,Camera is sharp and detailed.,2
+132,Xiaomi 13T,The phone overheats quickly during gaming.,1
+133,Galaxy S23 Ultra,The UI is smooth and easy to use.,3
+134,Pixel 8 Pro,Performance drops after long use.,3
+135,iPhone 15 Pro,Camera quality is poor in low light.,5
+136,OnePlus 12,Fast charging works really well.,5
+137,OnePlus 12,Camera quality is poor in low light.,4
+138,Pixel 8 Pro,Fast charging works really well.,2
+139,OnePlus 12,Fingerprint sensor is slow and inaccurate.,2
+140,iPhone 15 Pro,Camera quality is poor in low light.,4
+141,Pixel 8 Pro,Battery life is excellent and lasts all day.,4
+142,OnePlus 12,The display brightness is low outdoors.,1
+143,iPhone 15 Pro,Phone hangs frequently during multitasking.,3
+144,OnePlus 12,Battery life is excellent and lasts all day.,4
+145,Pixel 8 Pro,The speaker volume is too low.,3
+146,iPhone 15 Pro,The UI is smooth and easy to use.,3
+147,iPhone 15 Pro,Excellent build quality and premium feel.,5
+148,OnePlus 12,The display brightness is low outdoors.,2
+149,iPhone 15 Pro,"Great performance, no lag at all.",2
+150,OnePlus 12,The speaker volume is too low.,3
