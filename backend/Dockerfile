@@ -28,6 +28,6 @@ RUN mkdir -p Models
 # Expose port
 EXPOSE 5000
 
-# Use gunicorn for production
-CMD ["gunicorn", "api:app", "--bind", "0.0.0.0:5000", "--workers", "4", "--timeout", "120"]
+# Use gunicorn for production (1 worker for free tier memory limits)
+CMD ["gunicorn", "api:app", "--bind", "0.0.0.0:5000", "--workers", "1", "--threads", "2", "--timeout", "120"]
 

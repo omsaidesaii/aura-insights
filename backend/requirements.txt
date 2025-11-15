@@ -5,7 +5,6 @@ scikit-learn
 wordcloud
 nltk
 xgboost
-streamlit
 flask
 flask-cors
 plotly

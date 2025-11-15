@@ -5,9 +5,10 @@ import multiprocessing
 bind = "0.0.0.0:5000"
 backlog = 2048
 
-# Worker processes
-workers = multiprocessing.cpu_count() * 2 + 1
+# Worker processes (1 worker for free tier memory limits)
+workers = 1
 worker_class = "sync"
+threads = 2
 worker_connections = 1000
 timeout = 30
 keepalive = 2
