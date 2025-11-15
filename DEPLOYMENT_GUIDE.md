@@ -1,4 +1,4 @@
-# Complete Deployment Guide: Vercel + Render + MongoDB Atlas
+`# Complete Deployment Guide: Vercel + Render + MongoDB Atlas
 
 This guide will walk you through deploying your Synapse Sentiment Analysis application using:
 - **Vercel** for the frontend (React/TypeScript)
@@ -96,13 +96,19 @@ Fill in the following settings:
 - **Name**: `synapse-backend` (or your preferred name)
 - **Region**: Choose closest to your users
 - **Branch**: `main` (or your default branch)
-- **Root Directory**: `backend`
+- **Root Directory**: `backend` ⚠️ **CRITICAL: Must be set to `backend`**
 - **Runtime**: `Docker` (since you have a Dockerfile)
 - **Instance Type**: `Free` (or upgrade for production)
 
 **Build & Deploy:**
 - **Build Command**: (leave empty - Docker handles this)
 - **Start Command**: (leave empty - Dockerfile CMD handles this)
+
+⚠️ **IMPORTANT**: If you get an error "Dockerfile: no such file or directory":
+1. Go to your Render service → **Settings**
+2. Verify **Root Directory** is set to `backend` (not empty, not `/backend`, just `backend`)
+3. Click **Save Changes**
+4. Go to **Manual Deploy** → **Deploy latest commit**
 
 **Environment Variables** (add these now or after creation):
 ```
