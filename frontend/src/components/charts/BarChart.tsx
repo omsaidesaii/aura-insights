@@ -4,7 +4,7 @@ interface BarChartProps {
   color?: string;
 }
 
-export const BarChart = ({ data, color = '#135bec', maxHeight: _maxHeight }: BarChartProps) => {
+export const BarChart = ({ data, color = '#135bec' }: BarChartProps) => {
   const maxValue = Math.max(...data.map((d) => d.value), 1);
 
   if (data.length === 0) {
